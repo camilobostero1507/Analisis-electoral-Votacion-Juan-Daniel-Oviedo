@@ -77,10 +77,10 @@ El proyecto incluye dashboards interactivos desarrollados en **Power BI** para e
 
 **Juan Camilo León Ballesteros**
 
-Magíster en Comunicación, Tecnología y Sociedad (en curso)  
+Magíster en Comunicación, Tecnología y Sociedad con enfoque en Ciencia de Datos (en curso)  
 Comunicador Social – Periodista  
 
-Intereses: análisis de datos, comunicación política, visualización de información y análisis electoral.
+Intereses: análisis de datos, ciencia de datos, visualización de información e inteligencia artificial.
 
 ---
 
