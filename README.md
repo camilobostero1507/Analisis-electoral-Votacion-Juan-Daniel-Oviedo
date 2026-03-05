@@ -68,7 +68,8 @@ El proyecto sigue un flujo de trabajo típico de análisis de datos:
 
 El proyecto incluye dashboards interactivos desarrollados en **Power BI** para explorar los resultados electorales y comparar el comportamiento del voto por localidad.
 
-*(Aquí puedes agregar una imagen o captura del dashboard)*
+<img width="1026" height="582" alt="image" src="https://github.com/user-attachments/assets/f302bc7d-8c58-4042-a68c-b34807743f18" />
+
 
 ---
 
@@ -92,4 +93,3 @@ Este proyecto forma parte de mi portafolio de análisis de datos y busca demostr
 - visualización de información
 - comunicación de hallazgos basados en datos
 
-<img width="1026" height="582" alt="image" src="https://github.com/user-attachments/assets/f302bc7d-8c58-4042-a68c-b34807743f18" />
