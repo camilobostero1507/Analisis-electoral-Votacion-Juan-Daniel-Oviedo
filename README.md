@@ -1,4 +1,5 @@
 Análisis Electoral: Votación Juan Daniel Oviedo - Bogotá 🗳️
+
 Este repositorio contiene un análisis de los resultados electorales de Juan Daniel Oviedo Arango en las elecciones a la Alcaldía de Bogotá en 2023.
 
 El proyecto utiliza herramientas de análisis de datos para explorar la distribución territorial de la votación y comparar el desempeño del candidato frente a otros competidores de la contienda electoral.
