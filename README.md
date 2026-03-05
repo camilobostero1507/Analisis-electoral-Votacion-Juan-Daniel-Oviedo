@@ -1,19 +1,36 @@
 Análisis Electoral: Votación Juan Daniel Oviedo - Bogotá 🗳️
-Este proyecto presenta una solución integral de analítica de datos para visualizar y entender el comportamiento electoral de Juan Daniel Oviedo en las 20 localidades de Bogotá. Combina el poder de procesamiento de Python con la interactividad de Power BI para ofrecer insights estratégicos sobre la distribución del voto.
+Este repositorio contiene un análisis de los resultados electorales de Juan Daniel Oviedo Arango en las elecciones a la Alcaldía de Bogotá en 2023.
 
-🛠️ Stack Tecnológico
-Procesamiento de Datos: Python (Pandas) para la limpieza y estructuración automática de grandes volúmenes de registros.
+El proyecto utiliza herramientas de análisis de datos para explorar la distribución territorial de la votación y comparar el desempeño del candidato frente a otros competidores de la contienda electoral.
 
-Visualización: Power BI para la creación de un dashboard interactivo con filtrado cruzado.
+Objetivo
 
-Automatización: Scripts de Python diseñados para transformar la data cruda en estructuras optimizadas para BI.
+Analizar cómo se distribuyeron los votos obtenidos por Juan Daniel Oviedo en Bogotá y visualizar patrones relevantes en el comportamiento electoral.
 
-🚀 Características Principales
-Limpieza Automatizada: Implementación de un flujo ETL (Extracción, Transformación y Carga) que reduce el tiempo de preparación manual de datos.
+Herramientas utilizadas
 
-Interactividad Granular: Exploración detallada de la votación por localidad, permitiendo identificar motores electorales específicos como Suba y Engativá.
+Python
 
-KPIs Dinámicos: Seguimiento en tiempo real del porcentaje de participación y comparativas directas entre candidatos.
+Pandas
 
-📊 Impacto del Proyecto
-Este repositorio demuestra habilidades en Data Storytelling y Gestión de Información, traduciendo cifras complejas en una herramienta visual para la toma de decisiones estratégicas. Es un ejemplo aplicado de cómo la tecnología puede optimizar el análisis de fenómenos sociales y políticos.
+Jupyter Notebook
+
+Power BI
+
+Fuente de datos
+
+Datos oficiales de la Registraduría Nacional del Estado Civil correspondientes a los resultados de las elecciones locales de 2023.
+
+Qué se puede encontrar en el repositorio
+
+Limpieza y procesamiento de datos electorales
+
+Análisis exploratorio de votación por candidato
+
+Visualizaciones de resultados
+
+Archivos utilizados para construir dashboards y gráficos
+
+Autor
+
+Juan Camilo León Ballesteros
