@@ -37,8 +37,8 @@ Los datos provienen de los resultados oficiales publicados por la **Registradur�
 ## 🛠 Herramientas utilizadas
 
 - **Power BI** – Modelado de datos y construcción del dashboard  
-- **Excel** – Limpieza y organización inicial de la base de datos  
 - **Datos electorales oficiales** – Resultados de votación por puesto
+- **Python** para el proceso de automatización documento Excel
 
 ---
 
