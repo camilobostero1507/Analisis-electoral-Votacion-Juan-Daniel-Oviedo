@@ -1,61 +1,95 @@
-🗳️ Análisis Electoral: Juan Daniel Oviedo | Alcaldía de Bogotá 2023
-📌 Resumen del Proyecto
-Este repositorio presenta un análisis end-to-end de los resultados obtenidos por Juan Daniel Oviedo en las elecciones locales de Bogotá (2023). El proyecto destaca por transformar microdatos oficiales en insights territoriales, permitiendo entender el fenómeno de un candidato independiente en el mapa político capitalino.
-🎯 Objetivos de Negocio / Análisis
-Identificación de Clusters: Localizar las zonas de mayor densidad de votos para entender el perfil del electorado.
+# 🗳️ Análisis Electoral: Votación de Juan Daniel Oviedo | Alcaldía de Bogotá 2023
 
-Benchmarking Electoral: Comparar el desempeño frente al principal contendiente (Galán) por localidad.
+## 📌 Descripción del proyecto
+Este repositorio presenta un análisis de los resultados obtenidos por **Juan Daniel Oviedo** en las elecciones a la Alcaldía de Bogotá (2023). 
 
-Limpieza de Datos Complejos: Procesar la data cruda de la Registraduría Nacional, convirtiendo formatos planos en estructuras analíticas.
-🛠️ Stack Tecnológico
-Análisis y Procesamiento: Python (Pandas, NumPy) para la manipulación de grandes volúmenes de datos.
+El proyecto utiliza datos oficiales de la Registraduría Nacional para analizar la distribución territorial del voto y comparar el desempeño electoral del candidato frente a otros contendientes en la ciudad.
 
-Entorno de Desarrollo: Jupyter Notebooks para un flujo de trabajo documentado y reproducible.
+A partir de microdatos de votación por puesto y localidad, se desarrolló un proceso de limpieza, análisis exploratorio y visualización que permite identificar patrones geográficos del comportamiento electoral.
 
-Business Intelligence: Power BI para la creación de dashboards dinámicos y storytelling de datos.
-📈 Hallazgos Clave (Insights)
-Concentración Geográfica: El análisis revela una correlación positiva entre ciertos sectores socioeconómicos y la intención de voto hacia el candidato.
+---
 
-Eficiencia de Campaña: Visualización de puestos de votación donde el candidato superó las expectativas estadísticas.
-Gemini ha dicho
-Para un reclutador, el README es tu carta de presentación técnica. No solo deben ver que sabes programar, sino que entiendes el valor del negocio (o del contexto político/social) y que sabes comunicar hallazgos.
+## 🎯 Objetivos del análisis
 
-Aquí tienes una versión diseñada específicamente para impresionar a un reclutador de Data Science o Analytics, resaltando tus soft skills y tu capacidad técnica:
+- Analizar la distribución territorial de la votación obtenida por el candidato.
+- Comparar el desempeño electoral frente a otros candidatos principales.
+- Identificar zonas de mayor concentración de votos por localidad.
+- Transformar datos electorales crudos en información analítica útil.
 
-🗳️ Análisis Electoral: Juan Daniel Oviedo | Alcaldía de Bogotá 2023
-📌 Resumen del Proyecto
-Este repositorio presenta un análisis end-to-end de los resultados obtenidos por Juan Daniel Oviedo en las elecciones locales de Bogotá (2023). El proyecto destaca por transformar microdatos oficiales en insights territoriales, permitiendo entender el fenómeno de un candidato independiente en el mapa político capitalino.
+---
 
-🎯 Objetivos de Negocio / Análisis
-Identificación de Clusters: Localizar las zonas de mayor densidad de votos para entender el perfil del electorado.
+## 🛠️ Herramientas utilizadas
 
-Benchmarking Electoral: Comparar el desempeño frente a los principales contendientes (Galán, Bolívar) por localidad.
+- **Python**
+  - Pandas
+  - NumPy
+- **Jupyter Notebook** para exploración y documentación del análisis
+- **Power BI** para visualización y construcción de dashboards
 
-Limpieza de Datos Complejos: Procesar la data cruda de la Registraduría Nacional, convirtiendo formatos planos en estructuras analíticas.
+---
 
-🛠️ Stack Tecnológico
-Análisis y Procesamiento: Python (Pandas, NumPy) para la manipulación de grandes volúmenes de datos.
+## 📂 Estructura del repositorio
+/Análisis Electoral Votación Juan Daniel Oviedo.pbix  
+Archivo de Power BI que contiene el modelo de datos, las transformaciones y el dashboard interactivo del análisis electoral.
 
-Entorno de Desarrollo: Jupyter Notebooks para un flujo de trabajo documentado y reproducible.
+/Análisis Electoral Votación Juan Daniel Oviedo.pdf  
+Versión exportada del dashboard que permite visualizar los resultados sin necesidad de Power BI.
 
-Business Intelligence: Power BI para la creación de dashboards dinámicos y storytelling de datos.
+---
 
-📂 Estructura del Repositorio
-/data: Datasets procesados y fuentes originales de la Registraduría.
+## 📊 Proceso de análisis
 
-/notebooks: Proceso paso a paso de limpieza (ETL) y análisis exploratorio (EDA).
+El proyecto sigue un flujo de trabajo típico de análisis de datos:
 
-/dashboards: Reportes interactivos que resumen los hallazgos clave.
+1. **Obtención de datos**
+   - Resultados oficiales publicados por la Registraduría Nacional.
 
-📈 Hallazgos Clave (Insights)
-Concentración Geográfica: El análisis revela una correlación positiva entre ciertos sectores socioeconómicos y la intención de voto hacia el candidato.
+2. **Limpieza y transformación**
+   - Estandarización de variables
+   - Conversión de formatos planos a estructuras analíticas.
 
-Eficiencia de Campaña: Visualización de puestos de votación donde el candidato superó las expectativas estadísticas.
+3. **Análisis exploratorio**
+   - Identificación de patrones territoriales de votación.
 
-👤 Autor
-Juan Camilo León Ballesteros Candidato a Magíster en Comunicación, Tecnología y Sociedad | Profesional en Ciencia de Datos
+4. **Visualización**
+   - Construcción de dashboards en Power BI para comunicar los hallazgos.
 
-🚀 ¿Por qué este proyecto es relevante?
-Este análisis demuestra mi capacidad para manejar el ciclo completo del dato: desde la extracción y limpieza de fuentes oficiales, hasta la comunicación estratégica de resultados mediante herramientas de BI. Es una muestra de cómo la tecnología puede aportar transparencia y profundidad al análisis social.
+---
+
+## 📈 Principales hallazgos
+
+- La votación del candidato muestra **concentración territorial en determinadas localidades de la ciudad**.
+- Existen diferencias significativas en el comportamiento electoral entre localidades.
+- El análisis comparativo permite identificar **zonas donde el candidato tuvo mayor competitividad electoral** frente a otros contendientes.
+
+---
+
+## 📊 Visualización
+
+El proyecto incluye dashboards interactivos desarrollados en **Power BI** para explorar los resultados electorales y comparar el comportamiento del voto por localidad.
+
+*(Aquí puedes agregar una imagen o captura del dashboard)*
+
+---
+
+## 👤 Autor
+
+**Juan Camilo León Ballesteros**
+
+Magíster en Comunicación, Tecnología y Sociedad (en curso)  
+Comunicador Social – Periodista  
+
+Intereses: análisis de datos, comunicación política, visualización de información y análisis electoral.
+
+---
+
+## 🚀 Sobre este proyecto
+
+Este proyecto forma parte de mi portafolio de análisis de datos y busca demostrar habilidades en:
+
+- limpieza y procesamiento de datos
+- análisis exploratorio
+- visualización de información
+- comunicación de hallazgos basados en datos
 
 <img width="1026" height="582" alt="image" src="https://github.com/user-attachments/assets/f302bc7d-8c58-4042-a68c-b34807743f18" />
