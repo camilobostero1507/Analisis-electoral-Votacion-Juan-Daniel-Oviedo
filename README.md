@@ -63,7 +63,7 @@ Analisis-electoral-Votacion-Juan-Daniel-Oviedo
 
 Aquí se presenta una vista general del dashboard desarrollado en Power BI para explorar los resultados electorales.
 
-<img width="1026" height="582" alt="image" src="https://github.com/user-attachments/assets/f302bc7d-8c58-4042-a68c-b34807743f18" />
+<img width="992" height="551" alt="image" src="https://github.com/user-attachments/assets/d20baa10-79fa-4184-8836-4f77b2f0e5e8" />
 
 ## 💡 Habilidades demostradas
 
